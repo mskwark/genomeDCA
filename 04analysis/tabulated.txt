@@ -1,0 +1,1040 @@
+Loc:    8300 ## H7QSH8|H7QSH8_STREE Transcription-repair-coupling factor
+------------------------------------------------------------------------------
+     1317600 ## R0L2I1|R0L2I1_STREE ABC transporter membrane protein
+
+Loc:   44600 ## A5MKV6|A5MKV6_STREE Aromatic amino acid/Aspartate aminotransferase
+------------------------------------------------------------------------------
+     1117800 ## B8ZJR7|B8ZJR7_STRPJ Chromosome partition protein Smc
+
+Loc:   46000 ## A0A0B7LMC4|A0A0B7LMC4_STREE Phosphate acyltransferase
+------------------------------------------------------------------------------
+      744900 ## B8ZNP5|B8ZNP5_STRPJ Cytidine deaminase
+     2057500 ## D6ZNC6|D6ZNC6_STRP0 UTP--glucose-1-phosphate uridylyltransferase
+
+Loc:   46500 ## A0A0B7LMC4|A0A0B7LMC4_STREE Phosphate acyltransferase
+------------------------------------------------------------------------------
+      702900 ## B5E3H5|B5E3H5_STRP4 Dehydrogenase/3-oxoacyl-[acyl-carrier-protein] reductase activity
+
+Loc:   50100 ## R0LLX9|R0LLX9_STREE Transport/processing ATP-binding protein ComA
+------------------------------------------------------------------------------
+      713200 ## A5M9S4|A5M9S4_STREE 3-ketoacyl-(Acyl-carrier-protein) reductase/Peptidase U32 family protein
+
+Loc:   52600 ## B8ZJM7|PUR7_STRPJ Phosphoribosylaminoimidazole-succinocarboxamide synthase
+------------------------------------------------------------------------------
+      453600 ## 216 UPSTREAM G6LKX2|G6LKX2_STREE Phosphoglycerate kinase
+      520600 ## E0SWR9|E0SWR9_STRZA Regulator of polyketide synthase expression
+
+Loc:   54700 ## A5LVB8|A5LVB8_STREE Phosphoribosylaminoimidazole-succinocarboxamide synthase
+------------------------------------------------------------------------------
+      364800 ## G6LKL5|G6LKL5_STREE Exodeoxyribonuclease V alpha subunit/UvrD/REP helicase family protein
+
+Loc:   55000 ## J1P4Q0|J1P4Q0_STREE Phosphoribosylformylglycinamidine synthase
+------------------------------------------------------------------------------
+     2163200 ## B8ZQ21|B8ZQ21_STRPJ Alpha-glycerophosphate oxidase
+
+Loc:   56700 ## B2IR36|B2IR36_STRPS Amidophosphoribosyltransferase
+------------------------------------------------------------------------------
+     1113900 ## B8ZJR4|B8ZJR4_STRPJ Signal recognition particle receptor FtsY
+
+Loc:   69100 ## A0A0B4ZG42|A0A0B4ZG42_STREE Beta-N-acetylhexosaminidase
+------------------------------------------------------------------------------
+     2213800 ## M5K644|M5K644_STREE YhgE/Pip domain protein
+
+Loc:   84200 ## D6ZPP9|D6ZPP9_STRP0 Pnp/Udp Uridine Phosphorylase family
+------------------------------------------------------------------------------
+      549500 ## D6ZRA2|D6ZRA2_STRP0  Xaa-His Dipeptidase PepV, Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase
+
+Loc:   95800 ## E0TPK4|E0TPK4_STRZ6 Protein LplC, Multiple sugar ABC transporter, membrane-spanning permease protein MsmG
+------------------------------------------------------------------------------
+     1318400 ## B2IQJ8|B2IQJ8_STRPS 3-dehydroquinate dehydratase, ABC transporter, ATP-binding protein
+
+Loc:   99300 ## *Dubious* Q8CZC1|Q8CZC1_STRR6 Uncharacterized protein
+------------------------------------------------------------------------------
+      562400 ## G6LL94|G6LL94_STREE Subtilase family protein
+
+Loc:  123500 ## tr|A0A0B7LY79|A0A0B7LY79_STREE Membrane associated protein
+------------------------------------------------------------------------------
+     1601600 ## A5M5P6|A5M5P6_STREE Isoleucyl-tRNA synthetase
+     1891600 ## B2IM14|B2IM14_STRPS Uncharacterized protein
+
+Loc:  125800 ## 10 DOWNSTREAM Q8KSD4|Q8KSD4_STREE Surface protein A (Fragment)
+------------------------------------------------------------------------------
+     1601900 ## E0TSC3|E0TSC3_STRZ6 Cell-division initiation protein
+
+Loc:  129700 ## E0TQ54|E0TQ54_STRZ6 tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+------------------------------------------------------------------------------
+      919900 ## B8ZPH8|B8ZPH8_STRPJ Putative exported protein
+     2184900 ## B2INM1|B2INM1_STRPS Replicative DNA helicase
+
+Loc:  146000 ## B8ZKA9|B8ZKA9_STRPJ MutR Transcriptional regulator
+------------------------------------------------------------------------------
+     1162500 ## B8ZJV5|B8ZJV5_STRPJ Haloacid dehalogenase-like hydrolase
+
+Loc:  151900 ## BETWEEN B5E634|B5E634_STRP4 Peptidase, M20/M25/M40 family
+------------------------------------------------------------------------------
+     1569000 ## E0TRW1|E0TRW1_STRZ6 30S ribosomal protein S15
+
+Loc:  159200 ## D6ZQ06|D6ZQ06_STRP0 AraC, DNA-binding response regulator receiver domain protein
+------------------------------------------------------------------------------
+     1479100 ## B8ZLL7|B8ZLL7_STRPJ ATPase component of ABC transporter/ATP-binding protein
+
+Loc:  160000 ## B2IS06|B2IS06_STRPS Protein involved in ribonucleotide reduction, putative nrdI
+------------------------------------------------------------------------------
+      885900 ## B5E4A9|B5E4A9_STRP4 Putative ADP-ribose pyrophosphatase, Hydrolase, NUDIX family
+
+Loc:  190200 ## B2IS38|B2IS38_STRPS Phosphoribulokinase/uridine kinase
+------------------------------------------------------------------------------
+      584800 ## B8ZMN9|B8ZMN9_STRPJ Ribonuclease BN-like family protein, YihY family protein
+
+Loc:  211100 ## Q04MK5|Q04MK5_STRP2 ABC transporter, ATP-binding protein
+------------------------------------------------------------------------------
+      237500 ## 36 DOWNSTREAM B2ISJ1|B2ISJ1_STRPS Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+
+Loc:  215900 ## B2ISH4|B2ISH4_STRPS PTS system, IIA component
+------------------------------------------------------------------------------
+     1326700 ## Q97Q43|Q97Q43_STRPN Spermidine/putrescine ABC transporter, permease protein
+
+Loc:  231000 ## B2ISI8|B2ISI8_STRPS Zinc metalloprotease
+------------------------------------------------------------------------------
+      832200 ## 24 DOWNSTREAM Q04KZ8|Q04KZ8_STRP2 CAAX amino terminal protease family protein
+
+Loc:  237500 ## 36 DOWNSTREAM B2ISJ1|B2ISJ1_STRPS Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+------------------------------------------------------------------------------
+      211100 ## Q04MK5|Q04MK5_STRP2 ABC transporter, ATP-binding protein
+
+Loc:  239400 ## B8ZKT7|B8ZKT7_STRPJ Putative surface-anchored pullulanase
+------------------------------------------------------------------------------
+     1582200 ## A5LLC2|A5LLC2_STREE GTP pyrophosphokinase/Guanosine polyphosphate pyrophosphohydrolase/synthetase
+
+Loc:  243800 ## E0TQZ6|E0TQZ6_STRZ6 30S ribosomal protein S7
+------------------------------------------------------------------------------
+     2120500 ## B8ZPY5|B8ZPY5_STRPJ Putative alpha-1,2-mannosidase, Antigen, cell wall surface anchor family
+
+Loc:  278700 ## 60 DOWNSTREAM R0NIZ5|R0NIZ5_STREE Cellobiose phosphotransferase system IIC component
+------------------------------------------------------------------------------
+     1085200 ## E0TMS9|E0TMS9_STRZ6 Serine/threonine-protein kinase
+
+Loc:  292800 ## B9V3Y4|B9V3Y4_STREE Penicillin-binding protein 2X
+------------------------------------------------------------------------------
+      332700 ## A5YHD1|A5YHD1_STREE Penicillin-binding protein 1a
+      333700 ## S2VW99|S2VW99_STREE Holliday junction resolvase RecU
+      335200 ## B2ILR4|B2ILR4_STRPS Cell cycle protein GpsB
+     1531900 ## A5M943|A5M943_STREE ATP-dependent Clp protease ATP-binding subunit ClpX
+     1532300 ## B2IR89|B2IR89_STRPS Dihydrofolate reductase
+     1532800 ## B2IR90|B2IR90_STRPS Non-heme iron-containing ferritin
+     1612100 ## R0NHD9|R0NHD9_STREE Recombination protein RecR
+     1613100 ## B5LNZ4|B5LNZ4_STREE Penicillin-binding protein 2B
+
+Loc:  294200 ## H8ZYG8|H8ZYG8_STREE Phospho-N-acetylmuramoyl-pentapeptide-transferase
+------------------------------------------------------------------------------
+     1612100 ## R0NHD9|R0NHD9_STREE Recombination protein RecR
+     1613100 ## B5LNZ4|B5LNZ4_STREE Penicillin-binding protein 2B
+
+Loc:  332700 ## A5YHD1|A5YHD1_STREE Penicillin-binding protein 1a
+------------------------------------------------------------------------------
+      292800 ## B9V3Y4|B9V3Y4_STREE Penicillin-binding protein 2X
+     1613100 ## B5LNZ4|B5LNZ4_STREE Penicillin-binding protein 2B
+
+Loc:  333700 ## S2VW99|S2VW99_STREE Holliday junction resolvase RecU
+------------------------------------------------------------------------------
+      292800 ## B9V3Y4|B9V3Y4_STREE Penicillin-binding protein 2X
+     1613100 ## B5LNZ4|B5LNZ4_STREE Penicillin-binding protein 2B
+
+Loc:  335200 ## B2ILR4|B2ILR4_STRPS Cell cycle protein GpsB
+------------------------------------------------------------------------------
+      292800 ## B9V3Y4|B9V3Y4_STREE Penicillin-binding protein 2X
+     1613100 ## B5LNZ4|B5LNZ4_STREE Penicillin-binding protein 2B
+
+Loc:  339500 ## A5M9U9|A5M9U9_STREE 6-phosphogluconate dehydrogenase, decarboxylating
+------------------------------------------------------------------------------
+     1319300 ## E0TMD1|E0TMD1_STRZ6 Alpha-amylase (1,4-alpha-D-glucanglucanohydrolase)
+
+Loc:  341900 ## B8ZLF0|B8ZLF0_STRPJ Major Facilitator Superfamily protein/Transporter/Permease
+------------------------------------------------------------------------------
+      545000 ## M5MWJ9|M5MWJ9_STREE UvrABC system protein C/Excinuclease
+
+Loc:  346200 ## Q8DR50|Q8DR50_STRR6 Diphosphomevalonate decarboxylase
+------------------------------------------------------------------------------
+     1816800 ## B2ISV3|B2ISV3_STRPS Galactose operon repressor
+
+Loc:  364800 ## G6LKL5|G6LKL5_STREE Exodeoxyribonuclease V alpha subunit/UvrD/REP helicase family protein
+------------------------------------------------------------------------------
+       54700 ## A5LVB8|A5LVB8_STREE Phosphoribosylaminoimidazole-succinocarboxamide synthase
+
+Loc:  384800 ## B2ILW8|B2ILW8_STRPS Acetyl-CoA carboxylase
+------------------------------------------------------------------------------
+      745100 ## B2INW2|B2INW2_STRPS Lipoprotein
+
+Loc:  406300 ## 133 UPSTREAM E0TSB3|E0TSB3_STRZ6 L-cystine import ATP-binding protein TcyN
+------------------------------------------------------------------------------
+     1117800 ## B8ZJR7|B8ZJR7_STRPJ Chromosome partition protein Smc
+
+Loc:  409500 ## B8ZLV2|B8ZLV2_STRPJ Threonine ammonia-lyase/Threonine dehydratase/Putative membrane protein
+------------------------------------------------------------------------------
+      815800 ## C1CJZ5|C1CJZ5_STRZP Protein SprT-like
+
+Loc:  420000 ## H7PQH3|H7PQH3_STREE Trk-type K+ transport systems
+------------------------------------------------------------------------------
+      776600 ## B2IP05|B2IP05_STRPS Lactose phosphotransferase system repressor
+     1739200 ## A0A0B7LI65|A0A0B7LI65_STREE Aquaporin
+     1803200 ## Q04IW4|Q04IW4_STRP2 ABC transporter, ATP-binding/permease protein
+
+Loc:  453600 ## 216 UPSTREAM G6LKX2|G6LKX2_STREE Phosphoglycerate kinase
+------------------------------------------------------------------------------
+       52600 ## B8ZJM7|PUR7_STRPJ Phosphoribosylaminoimidazole-succinocarboxamide synthase
+
+Loc:  454700 ## B2IMB3|B2IMB3_STRPS Heat-inducible transcription repressor HrcA
+------------------------------------------------------------------------------
+      856800 ## D6ZLJ8|D6ZLJ8_STRP0 DNA internalization competence protein ComEC/Rec2-like protein
+
+Loc:  460200 ## M5LR51|M5LR51_STREE DnaJ region (Fragment)
+------------------------------------------------------------------------------
+      484200 ## G6LL13|G6LL13_STREE Valyl-tRNA synthetase
+
+Loc:  465000 ## A0A0B7M8Q9|A0A0B7M8Q9_STREE  Response regulator protein BlpR/ LytTr DNA-binding domain protein
+------------------------------------------------------------------------------
+      630200 ## J1DIG4|J1DIG4_STREE Lysyl-tRNA synthetase domain protein
+
+Loc:  468900 ## A5M6E7|A5M6E7_STREE A0A0B7KLG4|A0A0B7KLG4_STREE Competence factor transporting ATP-binding protein/permease ComA/ABC transporter/Bacteriocin transport/processing ATP-binding protein BlpA
+------------------------------------------------------------------------------
+      983900 ## B2IQ07|B2IQ07_STRPS Phosphate acetyltransferase
+     1823300 ## B2ISV9|B2ISV9_STRPS Choline transporter
+
+Loc:  478200 ## M5M0E0|M5M0E0_STREE Ribosome maturation factor RimP
+------------------------------------------------------------------------------
+     1412800 ## E0TM24|E0TM24_STRZ6 Mucin Binding Protein domain family
+
+Loc:  484200 ## G6LL13|G6LL13_STREE Valyl-tRNA synthetase
+------------------------------------------------------------------------------
+      460200 ## M5LR51|M5LR51_STREE DnaJ region (Fragment)
+      769200 ## D6ZLT8|D6ZLT8_STRP0 FeS assembly protein SufD
+     1565500 ## B8ZM25|B8ZM25_STRPJ P-type ATPase-metal cation transport, E1-E2 family
+
+Loc:  489100 ## B8ZMA3|B8ZMA3_STRPJ Putative acetyltransferase
+------------------------------------------------------------------------------
+      742400 ## B5E3L3|B5E3L3_STRP4 Methyltransferase small domain
+
+Loc:  500700 ## H7PQT2|H7PQT2_STREE PTS system, glucose-like IIB component domain protein
+------------------------------------------------------------------------------
+      912000 ## B8ZPG8|B8ZPG8_STRPJ tRNA modification GTPase MnmE
+
+Loc:  507200 ## A5M6K3|A5M6K3_STREE Phenylalanine--tRNA ligase beta subunit
+------------------------------------------------------------------------------
+      579900 ## M5LWG8|M5LWG8_STREE Radical SAM protein family (Fragment)
+      590400 ## A5M6U4|A5M6U4_STREE Sensor histidine kinase, putative
+     1880800 ## B8ZNL2|B8ZNL2_STRPJ Putative NADP-dependent L-serine/L-allo-threonine dehydrogenase
+
+Loc:  520600 ## E0SWR9|E0SWR9_STRZA Regulator of polyketide synthase expression
+------------------------------------------------------------------------------
+       52600 ## B8ZJM7|PUR7_STRPJ Phosphoribosylaminoimidazole-succinocarboxamide synthase
+
+Loc:  545000 ## M5MWJ9|M5MWJ9_STREE UvrABC system protein C/Excinuclease
+------------------------------------------------------------------------------
+      341900 ## B8ZLF0|B8ZLF0_STRPJ Major Facilitator Superfamily protein/Transporter/Permease
+      694100 ## A5LPB2|A5LPB2_STREE Glutathione reductase
+     1546600 ## B2IRA3|B2IRA3_STRPS Pyridine nucleotide-disulfide oxidoreductase
+
+Loc:  549500 ## D6ZRA2|D6ZRA2_STRP0  Xaa-His Dipeptidase PepV, Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase
+------------------------------------------------------------------------------
+       84200 ## D6ZPP9|D6ZPP9_STRP0 Pnp/Udp Uridine Phosphorylase family
+
+Loc:  552800 ## D6ZRA6|D6ZRA6_STRP0 M42 glutamyl aminopeptidase
+------------------------------------------------------------------------------
+      574900 ## J1PZG5|J1PZG5_STREE Bacterial Ig-like domain family protein
+     1546600 ## B2IRA3|B2IRA3_STRPS Pyridine nucleotide-disulfide oxidoreductase
+     1842400 ## B8ZNI8|B8ZNI8_STRPJ Sugar phosphotransferase system (PTS), IIABC component
+
+Loc:  556800 ## B2IMU9|B2IMU9_STRPS Pretranslocase subunit SecB
+------------------------------------------------------------------------------
+     1609700 ## D6ZMM6|D6ZMM6_STRP0 UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+
+Loc:  562400 ## G6LL94|G6LL94_STREE Subtilase family protein
+------------------------------------------------------------------------------
+       99300 ## *Dubious* Q8CZC1|Q8CZC1_STRR6 Uncharacterized protein
+      660400 ## Q8DQI0|Q8DQI0_STRR6 ABC transporter membrane-spanning permease-branched chain amino acid transport
+
+Loc:  574900 ## J1PZG5|J1PZG5_STREE Bacterial Ig-like domain family protein
+------------------------------------------------------------------------------
+      552800 ## D6ZRA6|D6ZRA6_STRP0 M42 glutamyl aminopeptidase
+
+Loc:  579900 ## M5LWG8|M5LWG8_STREE Radical SAM protein family (Fragment)
+------------------------------------------------------------------------------
+      507200 ## A5M6K3|A5M6K3_STREE Phenylalanine--tRNA ligase beta subunit
+
+Loc:  584800 ## B8ZMN9|B8ZMN9_STRPJ Ribonuclease BN-like family protein, YihY family protein
+------------------------------------------------------------------------------
+      190200 ## B2IS38|B2IS38_STRPS Phosphoribulokinase/uridine kinase
+
+Loc:  590400 ## A5M6U4|A5M6U4_STREE Sensor histidine kinase, putative
+------------------------------------------------------------------------------
+      507200 ## A5M6K3|A5M6K3_STREE Phenylalanine--tRNA ligase beta subunit
+
+Loc:  610800 ## Q04LK7|Q04LK7_STRP2 Pseudouridine synthase
+------------------------------------------------------------------------------
+     1455900 ## E0SVL8|E0SVL8_STRZA Cyclophilin type peptidyl-prolyl cis-trans isomerase protein
+     1533700 ## J1NVW4|J1NVW4_STREE Glycosyl hydrolases family 25 family protein
+
+Loc:  618700 ## B8ZMZ7|MURG_STRPJ UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+------------------------------------------------------------------------------
+     1166400 ## J1NB41|J1NB41_STREE 50S ribosomal protein L31 type B/Flavodoxin/DHHA1 domain protein
+
+Loc:  620700 ## C1CD54|PYRF_STRZJ Orotidine 5'-phosphate decarboxylase
+------------------------------------------------------------------------------
+     1104100 ## B2IPP7|B2IPP7_STRPS MutT/nudix family protein
+
+Loc:  630200 ## J1DIG4|J1DIG4_STREE Lysyl-tRNA synthetase domain protein
+------------------------------------------------------------------------------
+      465000 ## A0A0B7M8Q9|A0A0B7M8Q9_STREE  Response regulator protein BlpR/ LytTr DNA-binding domain protein
+
+Loc:  632600 ## 102 UPSTREAM B2IN97|B2IN97_STRPS Transcriptional regulator, putative
+------------------------------------------------------------------------------
+      719300 ## H7PRI0|H7PRI0_STREE DNA gyrase B family protein
+
+Loc:  640500 ## B2INA7|B2INA7_STRPS Thiamine-phosphate synthase
+------------------------------------------------------------------------------
+     1064700 ## R0NKC7|R0NKC7_STREE 6-phospho-beta-galactosidase
+
+Loc:  642400 ## B2INA9|B2INA9_STRPS Transcriptional repressor, putative
+------------------------------------------------------------------------------
+     1534600 ## B8ZLT5|B8ZLT5_STRPJ 1,4-beta-N-acetylmuramidase, Putative exported choline-binding glycosyl hydrolase
+
+Loc:  660400 ## Q8DQI0|Q8DQI0_STRR6 ABC transporter membrane-spanning permease-branched chain amino acid transport
+------------------------------------------------------------------------------
+      562400 ## G6LL94|G6LL94_STREE Subtilase family protein
+
+Loc:  676500 ## B2INE8|B2INE8_STRPS Superoxide dismutase
+------------------------------------------------------------------------------
+      912000 ## B8ZPG8|B8ZPG8_STRPJ tRNA modification GTPase MnmE
+
+Loc:  684600 ## UPSTREAM Q8CYZ3|Q8CYZ3_STRR6 Uncharacterized protein
+------------------------------------------------------------------------------
+      694800 ## A5M9Q4|A5M9Q4_STREE Efflux transporter, RND family protein, MFP subunit
+
+Loc:  693000 ## E0TQH4|E0TQH4_STRZ6 Glutathione-disulfide reductase
+------------------------------------------------------------------------------
+      835700 ## D6ZLL9|D6ZLL9_STRP0 Teichoic acid phosphorylcholine esterase/Choline binding protein/Metallo-beta-lactamase domain protein
+
+Loc:  694100 ## A5LPB2|A5LPB2_STREE Glutathione reductase
+------------------------------------------------------------------------------
+      545000 ## M5MWJ9|M5MWJ9_STREE UvrABC system protein C/Excinuclease
+
+Loc:  694800 ## A5M9Q4|A5M9Q4_STREE Efflux transporter, RND family protein, MFP subunit
+------------------------------------------------------------------------------
+      684600 ## UPSTREAM Q8CYZ3|Q8CYZ3_STRR6 Uncharacterized protein
+
+Loc:  702100 ## A5MK49|A5MK49_STREE Oxidoreductase, aldo/keto reductase family protein
+------------------------------------------------------------------------------
+     1482000 ## B2IR76|B2IR76_STRPS DegV family protein
+
+Loc:  702900 ## B5E3H5|B5E3H5_STRP4 Dehydrogenase/3-oxoacyl-[acyl-carrier-protein] reductase activity
+------------------------------------------------------------------------------
+       46500 ## A0A0B7LMC4|A0A0B7LMC4_STREE Phosphate acyltransferase
+
+Loc:  703000 ## B8ZNF1|B8ZNF1_STRPJ 3-oxoacyl-[acyl-carrier-protein] reductase activity/Dehydrogenase
+------------------------------------------------------------------------------
+      869200 ## B8ZP67|B8ZP67_STRPJ Formamidopyrimidine-DNA glycosylase
+
+Loc:  703100 ## B8ZNF2|B8ZNF2_STRPJ MutT/NUDIX family protein
+------------------------------------------------------------------------------
+      817800 ## H7QNJ8|H7QNJ8_STREE  Bacitracin export ATP-binding protein BceA/ABC transporter family protein
+
+Loc:  713200 ## A5M9S4|A5M9S4_STREE 3-ketoacyl-(Acyl-carrier-protein) reductase/Peptidase U32 family protein
+------------------------------------------------------------------------------
+       50100 ## R0LLX9|R0LLX9_STREE Transport/processing ATP-binding protein ComA
+
+Loc:  719300 ## H7PRI0|H7PRI0_STREE DNA gyrase B family protein
+------------------------------------------------------------------------------
+      632600 ## 102 UPSTREAM B2IN97|B2IN97_STRPS Transcriptional regulator, putative
+     1936900 ## B2IM52|B2IM52_STRPS SpoU rRNA Methylase family protein
+
+Loc:  726100 ## J1NZV4|J1NZV4_STREE ATP-dependent Clp protease ATP-binding subunit clpE
+------------------------------------------------------------------------------
+      783900 ## M5N5Q2|M5N5Q2_STREE Cysteine desulphurase, Aminotransferase, class V
+
+Loc:  742400 ## B5E3L3|B5E3L3_STRP4 Methyltransferase small domain
+------------------------------------------------------------------------------
+      489100 ## B8ZMA3|B8ZMA3_STRPJ Putative acetyltransferase
+     1806800 ## B2ISU3|B2ISU3_STRPS Exodeoxyribonuclease
+
+Loc:  742900 ## E0SY09|E0SY09_STRZA Thymidine phosphorylase
+------------------------------------------------------------------------------
+     1600800 ## D6ZML6|D6ZML6_STRP0 Isoleucine--tRNA ligase
+     1618700 ## D6ZMN5|D6ZMN5_STRP0 Beta-galactosidase subunit beta, involved in processing of exogenous sialic acid
+
+Loc:  744900 ## B8ZNP5|B8ZNP5_STRPJ Cytidine deaminase
+------------------------------------------------------------------------------
+       46000 ## A0A0B7LMC4|A0A0B7LMC4_STREE Phosphate acyltransferase
+      818600 ## B8ZP20|B8ZP20_STRPJ FtsX-like, Bacitracin export permease, ABC transporter, permease protein
+
+Loc:  745100 ## B2INW2|B2INW2_STRPS Lipoprotein
+------------------------------------------------------------------------------
+      384800 ## B2ILW8|B2ILW8_STRPS Acetyl-CoA carboxylase
+     1944300 ## Q97NN8|Q97NN8_STRPN Thiamine pyrophosphokinase
+
+Loc:  769200 ## D6ZLT8|D6ZLT8_STRP0 FeS assembly protein SufD
+------------------------------------------------------------------------------
+      484200 ## G6LL13|G6LL13_STREE Valyl-tRNA synthetase
+
+Loc:  770900 ## B2INZ0|B2INZ0_STRPS NifU family protein
+------------------------------------------------------------------------------
+      841600 ## B2IP92|B2IP92_STRPS ATPase/Initiation-control protein YabA
+
+Loc:  776600 ## B2IP05|B2IP05_STRPS Lactose phosphotransferase system repressor
+------------------------------------------------------------------------------
+      420000 ## H7PQH3|H7PQH3_STREE Trk-type K+ transport systems
+
+Loc:  782500 ## A5LKA0|A5LKA0_STREE SpoE family protein
+------------------------------------------------------------------------------
+      812100 ## D6ZLP7|D6ZLP7_STRP0 Putative permease
+
+Loc:  783000 ## M5MSJ9|M5MSJ9_STREE Histone acetyltransferase Gcn5
+------------------------------------------------------------------------------
+     1117800 ## B8ZJR7|B8ZJR7_STRPJ Chromosome partition protein Smc
+     1808200 ## F3VKD8|F3VKD8_STREE Xanthine phosphoribosyltransferase
+
+Loc:  783600 ## A0A0B7LDB9|A0A0B7LDB9_STREE Cysteine desulphurase, Class-V aminotransferase
+------------------------------------------------------------------------------
+      847600 ## E0TP44|E0TP44_STRZ6 Uridylate kinase
+
+Loc:  783900 ## M5N5Q2|M5N5Q2_STREE Cysteine desulphurase, Aminotransferase, class V
+------------------------------------------------------------------------------
+      726100 ## J1NZV4|J1NZV4_STREE ATP-dependent Clp protease ATP-binding subunit clpE
+     1807600 ## A0A0B7KVG2|A0A0B7KVG2_STREE Glyoxalase
+
+Loc:  784900 ## E0SYB9|E0SYB9_STRZA Probable tRNA sulfurtransferase
+------------------------------------------------------------------------------
+     1136400 ## J1DGR3|J1DGR3_STREE Homologous to LicB, which regulates expression of LPS epitopes in H. influenzae
+
+Loc:  812100 ## D6ZLP7|D6ZLP7_STRP0 Putative permease
+------------------------------------------------------------------------------
+      782500 ## A5LKA0|A5LKA0_STREE SpoE family protein
+
+Loc:  815100 ## J1EE77|J1EE77_STREE S1 RNA binding domain protein/Transcriptional regulator/Toxin expression/Protein tex domain protein
+------------------------------------------------------------------------------
+     1946400 ## R0NDY6|R0NDY6_STREE Ribosomal RNA small subunit methyltransferase A
+     2033600 ## 30 UPSTREAM C1CGZ8|C1CGZ8_STRZJ Cytidine/deoxycytidylate deaminase family protein
+
+Loc:  815800 ## C1CJZ5|C1CJZ5_STRZP Protein SprT-like
+------------------------------------------------------------------------------
+      409500 ## B8ZLV2|B8ZLV2_STRPJ Threonine ammonia-lyase/Threonine dehydratase/Putative membrane protein
+     1879300 ## E0TNP4|E0TNP4_STRZ6 60 kDa chaperonin
+
+Loc:  817800 ## H7QNJ8|H7QNJ8_STREE  Bacitracin export ATP-binding protein BceA/ABC transporter family protein
+------------------------------------------------------------------------------
+      703100 ## B8ZNF2|B8ZNF2_STRPJ MutT/NUDIX family protein
+
+Loc:  818600 ## B8ZP20|B8ZP20_STRPJ FtsX-like, Bacitracin export permease, ABC transporter, permease protein
+------------------------------------------------------------------------------
+      744900 ## B8ZNP5|B8ZNP5_STRPJ Cytidine deaminase
+
+Loc:  826900 ## J1CX70|J1CX70_STREE Carboxynorspermidine decarboxylase
+------------------------------------------------------------------------------
+     1831800 ## B8ZNA9|B8ZNA9_STRPJ Siderophore uptake ATP-binding protein
+
+Loc:  828600 ## G6S4Z0|G6S4Z0_STREE Agmatine deiminase
+------------------------------------------------------------------------------
+     1879300 ## E0TNP4|E0TNP4_STRZ6 60 kDa chaperonin
+
+Loc:  830700 ## D6ZLM6|D6ZLM6_STRP0 Cof-like hydrolase
+------------------------------------------------------------------------------
+      842600 ## B8ZP40|B8ZP40_STRPJ Tetrapyrrole methylase/Ribosomal RNA small subunit methyltransferase I
+     1545300 ## M5MTE6|M5MTE6_STREE Transporter, major facilitator family protein
+
+Loc:  832200 ## 24 DOWNSTREAM Q04KZ8|Q04KZ8_STRP2 CAAX amino terminal protease family protein
+------------------------------------------------------------------------------
+      231000 ## B2ISI8|B2ISI8_STRPS Zinc metalloprotease
+
+Loc:  835700 ## D6ZLL9|D6ZLL9_STRP0 Teichoic acid phosphorylcholine esterase/Choline binding protein/Metallo-beta-lactamase domain protein
+------------------------------------------------------------------------------
+      693000 ## E0TQH4|E0TQH4_STRZ6 Glutathione-disulfide reductase
+     1135600 ## B8ZJT1|B8ZJT1_STRPJ CTP:phosphocholine cytidylyltransferase
+
+Loc:  841600 ## B2IP92|B2IP92_STRPS ATPase/Initiation-control protein YabA
+------------------------------------------------------------------------------
+      770900 ## B2INZ0|B2INZ0_STRPS NifU family protein
+     2219900 ## B8ZQD0|B8ZQD0_STRPJ Trypsin domain protein/Serine protease
+
+Loc:  842600 ## B8ZP40|B8ZP40_STRPJ Tetrapyrrole methylase/Ribosomal RNA small subunit methyltransferase I
+------------------------------------------------------------------------------
+      830700 ## D6ZLM6|D6ZLM6_STRP0 Cof-like hydrolase
+     1883400 ## B8ZNL7|B8ZNL7_STRPJ Putative membrane protein
+
+Loc:  847600 ## E0TP44|E0TP44_STRZ6 Uridylate kinase
+------------------------------------------------------------------------------
+      783600 ## A0A0B7LDB9|A0A0B7LDB9_STREE Cysteine desulphurase, Class-V aminotransferase
+
+Loc:  850100 ## B2IP02|B2IP02_STRPS PhoH family protein, predicted ATPase, induced by phosphate starvation
+------------------------------------------------------------------------------
+     1058600 ## B2IPU9|B2IPU9_STRPS NrdH-redoxin
+
+Loc:  853300 ## B8ZP51|B8ZP51_STRPJ Ribosomal N-acetyltransferase (GNAT) family protein
+------------------------------------------------------------------------------
+     1616000 ## B2IRT0|B2IRT0_STRPS ROK family protein, Glucokinase
+
+Loc:  856800 ## D6ZLJ8|D6ZLJ8_STRP0 DNA internalization competence protein ComEC/Rec2-like protein
+------------------------------------------------------------------------------
+      454700 ## B2IMB3|B2IMB3_STRPS Heat-inducible transcription repressor HrcA
+
+Loc:  866200 ## B2IPC0|B2IPC0_STRPS Adherence and virulence protein A
+------------------------------------------------------------------------------
+     1064700 ## R0NKC7|R0NKC7_STREE 6-phospho-beta-galactosidase
+
+Loc:  869200 ## B8ZP67|B8ZP67_STRPJ Formamidopyrimidine-DNA glycosylase
+------------------------------------------------------------------------------
+      703000 ## B8ZNF1|B8ZNF1_STRPJ 3-oxoacyl-[acyl-carrier-protein] reductase activity/Dehydrogenase
+
+Loc:  885900 ## B5E4A9|B5E4A9_STRP4 Putative ADP-ribose pyrophosphatase, Hydrolase, NUDIX family
+------------------------------------------------------------------------------
+      160000 ## B2IS06|B2IS06_STRPS Protein involved in ribonucleotide reduction, putative nrdI
+
+Loc:  895400 ## B2IPF4|B2IPF4_STRPS Zinc-binding lipoprotein AdcA/Laminin-binding adhesion lipoprotein
+------------------------------------------------------------------------------
+     1424100 ## A5LKY4|A5LKY4_STREE 3-carboxymuconate cyclase/SMP-30/Gluconolaconase/LRE-like region protein
+
+Loc:  910100 ## B2IPH1|B2IPH1_STRPS Aspartate-semialdehyde dehydrogenase
+------------------------------------------------------------------------------
+     1109600 ## A5M7J2|A5M7J2_STREE Lysine-arginine-ornithine-binding periplasmic family protein/Glutamine ABC transporter permease/Amino acid ABC transporter, amino acid-binding protein/permease protein
+
+Loc:  910900 ## S2VHQ7|S2VHQ7_STREE 4-hydroxy-tetrahydrodipicolinate synthase
+------------------------------------------------------------------------------
+     1069300 ## M5N2Z7|M5N2Z7_STREE Tagatose-bisphosphate aldolase (Fragment)
+     1104200 ## B2IPP6|B2IPP6_STRPS Acetyltransferase, GNAT family
+     2210700 ## F3VLH8|F3VLH8_STREE ABC transporter family protein,  ATPase component of ABC transporters with duplicated ATPase domains
+
+Loc:  912000 ## B8ZPG8|B8ZPG8_STRPJ tRNA modification GTPase MnmE
+------------------------------------------------------------------------------
+      500700 ## H7PQT2|H7PQT2_STREE PTS system, glucose-like IIB component domain protein
+      676500 ## B2INE8|B2INE8_STRPS Superoxide dismutase
+     2122000 ## B8ZPY6|B8ZPY6_STRPJ Putative fucosidase
+
+Loc:  919900 ## B8ZPH8|B8ZPH8_STRPJ Putative exported protein
+------------------------------------------------------------------------------
+      129700 ## E0TQ54|E0TQ54_STRZ6 tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+
+Loc:  958600 ## B8ZPS0|B8ZPS0_STRPJ ABC transporter ATP-binding protein
+------------------------------------------------------------------------------
+     1937900 ## D6ZPC6|D6ZPC6_STRP0 Membrane protein insertase YidC
+     2035100 ## J1DAC3|J1DAC3_STREE Glutamyl-tRNA synthetase
+
+Loc:  978800 ## Q04KJ3|Q04KJ3_STRP2 Phosphoenolpyruvate carboxylase, Aminotransferase, class V
+------------------------------------------------------------------------------
+     1412800 ## E0TM24|E0TM24_STRZ6 Mucin Binding Protein domain family
+
+Loc:  983900 ## B2IQ07|B2IQ07_STRPS Phosphate acetyltransferase
+------------------------------------------------------------------------------
+      468900 ## A5M6E7|A5M6E7_STREE A0A0B7KLG4|A0A0B7KLG4_STREE Competence factor transporting ATP-binding protein/permease ComA/ABC transporter/Bacteriocin transport/processing ATP-binding protein BlpA
+
+Loc: 1058600 ## B2IPU9|B2IPU9_STRPS NrdH-redoxin
+------------------------------------------------------------------------------
+      850100 ## B2IP02|B2IP02_STRPS PhoH family protein, predicted ATPase, induced by phosphate starvation
+
+Loc: 1064700 ## R0NKC7|R0NKC7_STREE 6-phospho-beta-galactosidase
+------------------------------------------------------------------------------
+      640500 ## B2INA7|B2INA7_STRPS Thiamine-phosphate synthase
+      866200 ## B2IPC0|B2IPC0_STRPS Adherence and virulence protein A
+
+Loc: 1067100 ## B2IPU1|B2IPU1_STRPS PTS system, lactose-specific IIBC components
+------------------------------------------------------------------------------
+     1139600 ## M5MB31|M5MB31_STREE 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+
+Loc: 1069300 ## M5N2Z7|M5N2Z7_STREE Tagatose-bisphosphate aldolase (Fragment)
+------------------------------------------------------------------------------
+      910900 ## S2VHQ7|S2VHQ7_STREE 4-hydroxy-tetrahydrodipicolinate synthase
+
+Loc: 1071000 ## E0TMU8|E0TMU8_STRZ6 Galactose-6-phosphate isomerase subunit LacB
+------------------------------------------------------------------------------
+     1907600 ## Q04IM0|Q04IM0_STRP2 Transcriptional regulator PlcR, putative
+
+Loc: 1085200 ## E0TMS9|E0TMS9_STRZ6 Serine/threonine-protein kinase
+------------------------------------------------------------------------------
+      278700 ## 60 DOWNSTREAM R0NIZ5|R0NIZ5_STREE Cellobiose phosphotransferase system IIC component
+
+Loc: 1094900 ## B2IPQ7|B2IPQ7_STRPS Metallo-beta-lactamase domain/VicX protein
+------------------------------------------------------------------------------
+     1696400 ## B8ZMS9|B8ZMS9_STRPJ Putative sodium:dicarboxylate symporter family protein/Na+:serine/threonine symporter
+
+Loc: 1104100 ## B2IPP7|B2IPP7_STRPS MutT/nudix family protein
+------------------------------------------------------------------------------
+      620700 ## C1CD54|PYRF_STRZJ Orotidine 5'-phosphate decarboxylase
+
+Loc: 1104200 ## B2IPP6|B2IPP6_STRPS Acetyltransferase, GNAT family
+------------------------------------------------------------------------------
+      910900 ## S2VHQ7|S2VHQ7_STREE 4-hydroxy-tetrahydrodipicolinate synthase
+
+Loc: 1105200 ## B2IPP5|B2IPP5_STRPS Acetyltransferase, GNAT family
+------------------------------------------------------------------------------
+     1161900 ## Q04K34|Q04K34_STRP2 dGTP triphosphohydrolase
+
+Loc: 1109600 ## A5M7J2|A5M7J2_STREE Lysine-arginine-ornithine-binding periplasmic family protein/Glutamine ABC transporter permease/Amino acid ABC transporter, amino acid-binding protein/permease protein
+------------------------------------------------------------------------------
+      910100 ## B2IPH1|B2IPH1_STRPS Aspartate-semialdehyde dehydrogenase
+
+Loc: 1113900 ## B8ZJR4|B8ZJR4_STRPJ Signal recognition particle receptor FtsY
+------------------------------------------------------------------------------
+       56700 ## B2IR36|B2IR36_STRPS Amidophosphoribosyltransferase
+
+Loc: 1117800 ## B8ZJR7|B8ZJR7_STRPJ Chromosome partition protein Smc
+------------------------------------------------------------------------------
+       44600 ## A5MKV6|A5MKV6_STREE Aromatic amino acid/Aspartate aminotransferase
+      406300 ## 133 UPSTREAM E0TSB3|E0TSB3_STRZ6 L-cystine import ATP-binding protein TcyN
+      783000 ## M5MSJ9|M5MSJ9_STREE Histone acetyltransferase Gcn5
+     1162900 ## Q04K33|Q04K33_STRP2 Cof family protein
+     1546600 ## B2IRA3|B2IRA3_STRPS Pyridine nucleotide-disulfide oxidoreductase
+     1963700 ## B2IMH6|B2IMH6_STRPS Uncharacterized protein
+
+Loc: 1120000 ## J0UK66|J0UK66_STREE Ribonuclease 3
+------------------------------------------------------------------------------
+     2069800 ## B2IN21|B2IN21_STRPS rRNA (Guanine-N1-)-methyltransferase
+
+Loc: 1135600 ## B8ZJT1|B8ZJT1_STRPJ CTP:phosphocholine cytidylyltransferase
+------------------------------------------------------------------------------
+      835700 ## D6ZLL9|D6ZLL9_STRP0 Teichoic acid phosphorylcholine esterase/Choline binding protein/Metallo-beta-lactamase domain protein
+
+Loc: 1136400 ## J1DGR3|J1DGR3_STREE Homologous to LicB, which regulates expression of LPS epitopes in H. influenzae
+------------------------------------------------------------------------------
+      784900 ## E0SYB9|E0SYB9_STRZA Probable tRNA sulfurtransferase
+
+Loc: 1139600 ## M5MB31|M5MB31_STREE 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+------------------------------------------------------------------------------
+     1067100 ## B2IPU1|B2IPU1_STRPS PTS system, lactose-specific IIBC components
+
+Loc: 1161900 ## Q04K34|Q04K34_STRP2 dGTP triphosphohydrolase
+------------------------------------------------------------------------------
+     1105200 ## B2IPP5|B2IPP5_STRPS Acetyltransferase, GNAT family
+
+Loc: 1162500 ## B8ZJV5|B8ZJV5_STRPJ Haloacid dehalogenase-like hydrolase
+------------------------------------------------------------------------------
+      146000 ## B8ZKA9|B8ZKA9_STRPJ MutR Transcriptional regulator
+
+Loc: 1162900 ## Q04K33|Q04K33_STRP2 Cof family protein
+------------------------------------------------------------------------------
+     1117800 ## B8ZJR7|B8ZJR7_STRPJ Chromosome partition protein Smc
+
+Loc: 1166400 ## J1NB41|J1NB41_STREE 50S ribosomal protein L31 type B/Flavodoxin/DHHA1 domain protein
+------------------------------------------------------------------------------
+      618700 ## B8ZMZ7|MURG_STRPJ UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+
+Loc: 1293200 ## Q97Q71|Q97Q71_STRPN ABC transporter, ATP-binding/permease protein
+------------------------------------------------------------------------------
+     1946400 ## R0NDY6|R0NDY6_STREE Ribosomal RNA small subunit methyltransferase A
+
+Loc: 1317600 ## R0L2I1|R0L2I1_STREE ABC transporter membrane protein
+------------------------------------------------------------------------------
+        8300 ## H7QSH8|H7QSH8_STREE Transcription-repair-coupling factor
+
+Loc: 1318400 ## B2IQJ8|B2IQJ8_STRPS 3-dehydroquinate dehydratase, ABC transporter, ATP-binding protein
+------------------------------------------------------------------------------
+       95800 ## E0TPK4|E0TPK4_STRZ6 Protein LplC, Multiple sugar ABC transporter, membrane-spanning permease protein MsmG
+
+Loc: 1319300 ## E0TMD1|E0TMD1_STRZ6 Alpha-amylase (1,4-alpha-D-glucanglucanohydrolase)
+------------------------------------------------------------------------------
+      339500 ## A5M9U9|A5M9U9_STREE 6-phosphogluconate dehydrogenase, decarboxylating
+
+Loc: 1321500 ## M5MX69|M5MX69_STREE Alanine--tRNA ligase (Fragment)
+------------------------------------------------------------------------------
+     1342700 ## E0TMA6|E0TMA6_STRZ6 HAD-superfamily subfamily IIA hydrolase
+     1626500 ## J1NVG9|J1NVG9_STREE Alanine racemase/Oxidoreductase, Gfo/Idh/MocA family/yjhC domain protein
+
+Loc: 1326700 ## Q97Q43|Q97Q43_STRPN Spermidine/putrescine ABC transporter, permease protein
+------------------------------------------------------------------------------
+      215900 ## B2ISH4|B2ISH4_STRPS PTS system, IIA component
+     2007000 ## B2IML9|B2IML9_STRPS Adenine-specific DNA methylase
+
+Loc: 1342700 ## E0TMA6|E0TMA6_STRZ6 HAD-superfamily subfamily IIA hydrolase
+------------------------------------------------------------------------------
+     1321500 ## M5MX69|M5MX69_STREE Alanine--tRNA ligase (Fragment)
+
+Loc: 1412800 ## E0TM24|E0TM24_STRZ6 Mucin Binding Protein domain family
+------------------------------------------------------------------------------
+      478200 ## M5M0E0|M5M0E0_STREE Ribosome maturation factor RimP
+      978800 ## Q04KJ3|Q04KJ3_STRP2 Phosphoenolpyruvate carboxylase, Aminotransferase, class V
+
+Loc: 1415800 ## E0TM20|E0TM20_STRZ6 Degenerate transposase
+------------------------------------------------------------------------------
+     2025000 ## E0TQP0|E0TQP0_STRZ6 Threonine synthase
+
+Loc: 1416800 ## J1E8E2|J1E8E2_STREE Phosphoglucomutase
+------------------------------------------------------------------------------
+     2025000 ## E0TQP0|E0TQP0_STRZ6 Threonine synthase
+
+Loc: 1418600 ## B8ZLA2|B8ZLA2_STRPJ Putative amino acid ABC transporter,extracellular amino acid-binding protein
+------------------------------------------------------------------------------
+     2118900 ## B1I9V7|B1I9V7_STRPI Twin-arginine translocation pathway signal
+
+Loc: 1419900 ## D6ZM49|D6ZM49_STRP0 ABC transporter, ATP-binding protein
+------------------------------------------------------------------------------
+     1561900 ## B8ZM22|B8ZM22_STRPJ FAD dependent oxidoreductase
+
+Loc: 1424100 ## A5LKY4|A5LKY4_STREE 3-carboxymuconate cyclase/SMP-30/Gluconolaconase/LRE-like region protein
+------------------------------------------------------------------------------
+      895400 ## B2IPF4|B2IPF4_STRPS Zinc-binding lipoprotein AdcA/Laminin-binding adhesion lipoprotein
+
+Loc: 1439700 ## M5LP88|M5LP88_STREE Helicase conserved C-terminal domain protein, Helicase, SNF2 family
+------------------------------------------------------------------------------
+     1535300 ## B2IR92|B2IR92_STRPS Lysozyme
+
+Loc: 1455900 ## E0SVL8|E0SVL8_STRZA Cyclophilin type peptidyl-prolyl cis-trans isomerase protein
+------------------------------------------------------------------------------
+      610800 ## Q04LK7|Q04LK7_STRP2 Pseudouridine synthase
+
+Loc: 1461000 ## J1UYF1|J1UYF1_STREE Peptidase propeptide and ypeb domain protein
+------------------------------------------------------------------------------
+     2203900 ## B8ZQB6|B8ZQB6_STRPJ Zinc-dependent protease, Peptidase, M16 family
+
+Loc: 1479100 ## B8ZLL7|B8ZLL7_STRPJ ATPase component of ABC transporter/ATP-binding protein
+------------------------------------------------------------------------------
+      159200 ## D6ZQ06|D6ZQ06_STRP0 AraC, DNA-binding response regulator receiver domain protein
+     2025000 ## E0TQP0|E0TQP0_STRZ6 Threonine synthase
+
+Loc: 1482000 ## B2IR76|B2IR76_STRPS DegV family protein
+------------------------------------------------------------------------------
+      702100 ## A5MK49|A5MK49_STREE Oxidoreductase, aldo/keto reductase family protein
+
+Loc: 1531900 ## A5M943|A5M943_STREE ATP-dependent Clp protease ATP-binding subunit ClpX
+------------------------------------------------------------------------------
+      292800 ## B9V3Y4|B9V3Y4_STREE Penicillin-binding protein 2X
+
+Loc: 1532300 ## B2IR89|B2IR89_STRPS Dihydrofolate reductase
+------------------------------------------------------------------------------
+      292800 ## B9V3Y4|B9V3Y4_STREE Penicillin-binding protein 2X
+     1613100 ## B5LNZ4|B5LNZ4_STREE Penicillin-binding protein 2B
+
+Loc: 1532800 ## B2IR90|B2IR90_STRPS Non-heme iron-containing ferritin
+------------------------------------------------------------------------------
+      292800 ## B9V3Y4|B9V3Y4_STREE Penicillin-binding protein 2X
+
+Loc: 1533700 ## J1NVW4|J1NVW4_STREE Glycosyl hydrolases family 25 family protein
+------------------------------------------------------------------------------
+      610800 ## Q04LK7|Q04LK7_STRP2 Pseudouridine synthase
+
+Loc: 1534600 ## B8ZLT5|B8ZLT5_STRPJ 1,4-beta-N-acetylmuramidase, Putative exported choline-binding glycosyl hydrolase
+------------------------------------------------------------------------------
+      642400 ## B2INA9|B2INA9_STRPS Transcriptional repressor, putative
+
+Loc: 1535300 ## B2IR92|B2IR92_STRPS Lysozyme
+------------------------------------------------------------------------------
+     1439700 ## M5LP88|M5LP88_STREE Helicase conserved C-terminal domain protein, Helicase, SNF2 family
+
+Loc: 1545300 ## M5MTE6|M5MTE6_STREE Transporter, major facilitator family protein
+------------------------------------------------------------------------------
+      830700 ## D6ZLM6|D6ZLM6_STRP0 Cof-like hydrolase
+
+Loc: 1546600 ## B2IRA3|B2IRA3_STRPS Pyridine nucleotide-disulfide oxidoreductase
+------------------------------------------------------------------------------
+      545000 ## M5MWJ9|M5MWJ9_STREE UvrABC system protein C/Excinuclease
+      552800 ## D6ZRA6|D6ZRA6_STRP0 M42 glutamyl aminopeptidase
+     1117800 ## B8ZJR7|B8ZJR7_STRPJ Chromosome partition protein Smc
+
+Loc: 1549700 ## B2IRA5|B2IRA5_STRPS Cobyric acid synthase
+------------------------------------------------------------------------------
+     1817800 ## G6LPY1|G6LPY1_STREE Zinc-binding dehydrogenase family protein
+
+Loc: 1561900 ## B8ZM22|B8ZM22_STRPJ FAD dependent oxidoreductase
+------------------------------------------------------------------------------
+     1419900 ## D6ZM49|D6ZM49_STRP0 ABC transporter, ATP-binding protein
+     2050200 ## Q9X4S9|Q9X4S9_STREE Histidine kinase
+
+Loc: 1565500 ## B8ZM25|B8ZM25_STRPJ P-type ATPase-metal cation transport, E1-E2 family
+------------------------------------------------------------------------------
+      484200 ## G6LL13|G6LL13_STREE Valyl-tRNA synthetase
+
+Loc: 1569000 ## E0TRW1|E0TRW1_STRZ6 30S ribosomal protein S15
+------------------------------------------------------------------------------
+      151900 ## BETWEEN B5E634|B5E634_STRP4 Peptidase, M20/M25/M40 family
+
+Loc: 1574900 ## B2IRN9|B2IRN9_STRPS DNA-binding response regulator
+------------------------------------------------------------------------------
+     2218000 ## M5KB29|M5KB29_STREE Histidine protein kinase/ComD protein
+
+Loc: 1582200 ## A5LLC2|A5LLC2_STREE GTP pyrophosphokinase/Guanosine polyphosphate pyrophosphohydrolase/synthetase
+------------------------------------------------------------------------------
+      239400 ## B8ZKT7|B8ZKT7_STRPJ Putative surface-anchored pullulanase
+
+Loc: 1600800 ## D6ZML6|D6ZML6_STRP0 Isoleucine--tRNA ligase
+------------------------------------------------------------------------------
+      742900 ## E0SY09|E0SY09_STRZA Thymidine phosphorylase
+
+Loc: 1601600 ## A5M5P6|A5M5P6_STREE Isoleucyl-tRNA synthetase
+------------------------------------------------------------------------------
+      123500 ## tr|A0A0B7LY79|A0A0B7LY79_STREE Membrane associated protein
+     1891600 ## B2IM14|B2IM14_STRPS Uncharacterized protein
+
+Loc: 1601900 ## E0TSC3|E0TSC3_STRZ6 Cell-division initiation protein
+------------------------------------------------------------------------------
+      125800 ## 10 DOWNSTREAM Q8KSD4|Q8KSD4_STREE Surface protein A (Fragment)
+     1891600 ## B2IM14|B2IM14_STRPS Uncharacterized protein
+     1892100 ## B2IM15|B2IM15_STRPS Uncharacterized protein
+
+Loc: 1602200 ## B2IRR6|B2IRR6_STRPS Cell division protein DivIVA
+------------------------------------------------------------------------------
+     1891600 ## B2IM14|B2IM14_STRPS Uncharacterized protein
+
+Loc: 1609700 ## D6ZMM6|D6ZMM6_STRP0 UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+------------------------------------------------------------------------------
+      556800 ## B2IMU9|B2IMU9_STRPS Pretranslocase subunit SecB
+
+Loc: 1612100 ## R0NHD9|R0NHD9_STREE Recombination protein RecR
+------------------------------------------------------------------------------
+      292800 ## B9V3Y4|B9V3Y4_STREE Penicillin-binding protein 2X
+      294200 ## H8ZYG8|H8ZYG8_STREE Phospho-N-acetylmuramoyl-pentapeptide-transferase
+
+Loc: 1613100 ## B5LNZ4|B5LNZ4_STREE Penicillin-binding protein 2B
+------------------------------------------------------------------------------
+      292800 ## B9V3Y4|B9V3Y4_STREE Penicillin-binding protein 2X
+      294200 ## H8ZYG8|H8ZYG8_STREE Phospho-N-acetylmuramoyl-pentapeptide-transferase
+      332700 ## A5YHD1|A5YHD1_STREE Penicillin-binding protein 1a
+      333700 ## S2VW99|S2VW99_STREE Holliday junction resolvase RecU
+      335200 ## B2ILR4|B2ILR4_STRPS Cell cycle protein GpsB
+     1532300 ## B2IR89|B2IR89_STRPS Dihydrofolate reductase
+
+Loc: 1616000 ## B2IRT0|B2IRT0_STRPS ROK family protein, Glucokinase
+------------------------------------------------------------------------------
+      853300 ## B8ZP51|B8ZP51_STRPJ Ribosomal N-acetyltransferase (GNAT) family protein
+
+Loc: 1618700 ## D6ZMN5|D6ZMN5_STRP0 Beta-galactosidase subunit beta, involved in processing of exogenous sialic acid
+------------------------------------------------------------------------------
+      742900 ## E0SY09|E0SY09_STRZA Thymidine phosphorylase
+
+Loc: 1626500 ## J1NVG9|J1NVG9_STREE Alanine racemase/Oxidoreductase, Gfo/Idh/MocA family/yjhC domain protein
+------------------------------------------------------------------------------
+     1321500 ## M5MX69|M5MX69_STREE Alanine--tRNA ligase (Fragment)
+
+Loc: 1654000 ## B2IRW5|B2IRW5_STRPS Nitroreductase family protein
+------------------------------------------------------------------------------
+     1802600 ## E0SX96|E0SX96_STRZA ABC-type multidrug transport system, ATPase and permease component
+
+Loc: 1668600 ## B8ZMI8|B8ZMI8_STRPJ Putative sucrose operon repressor
+------------------------------------------------------------------------------
+     2118900 ## B1I9V7|B1I9V7_STRPI Twin-arginine translocation pathway signal
+
+Loc: 1676300 ## R0LL05|R0LL05_STREE Serine/threonine protein kinase
+------------------------------------------------------------------------------
+     1740100 ## A0A098Z1U6|A0A098Z1U6_STREE Oligoendopeptidase F
+
+Loc: 1696400 ## B8ZMS9|B8ZMS9_STRPJ Putative sodium:dicarboxylate symporter family protein/Na+:serine/threonine symporter
+------------------------------------------------------------------------------
+     1094900 ## B2IPQ7|B2IPQ7_STRPS Metallo-beta-lactamase domain/VicX protein
+
+Loc: 1739200 ## A0A0B7LI65|A0A0B7LI65_STREE Aquaporin
+------------------------------------------------------------------------------
+      420000 ## H7PQH3|H7PQH3_STREE Trk-type K+ transport systems
+
+Loc: 1740100 ## A0A098Z1U6|A0A098Z1U6_STREE Oligoendopeptidase F
+------------------------------------------------------------------------------
+     1676300 ## R0LL05|R0LL05_STREE Serine/threonine protein kinase
+
+Loc: 1777400 ## G6LWC2|G6LWC2_STREE Tryptophan synthase alpha chain
+------------------------------------------------------------------------------
+     1958400 ## B2IMH1|B2IMH1_STRPS Cof family protein
+
+Loc: 1802600 ## E0SX96|E0SX96_STRZA ABC-type multidrug transport system, ATPase and permease component
+------------------------------------------------------------------------------
+     1654000 ## B2IRW5|B2IRW5_STRPS Nitroreductase family protein
+
+Loc: 1803200 ## Q04IW4|Q04IW4_STRP2 ABC transporter, ATP-binding/permease protein
+------------------------------------------------------------------------------
+      420000 ## H7PQH3|H7PQH3_STREE Trk-type K+ transport systems
+
+Loc: 1806800 ## B2ISU3|B2ISU3_STRPS Exodeoxyribonuclease
+------------------------------------------------------------------------------
+      742400 ## B5E3L3|B5E3L3_STRP4 Methyltransferase small domain
+
+Loc: 1807600 ## A0A0B7KVG2|A0A0B7KVG2_STREE Glyoxalase
+------------------------------------------------------------------------------
+      783900 ## M5N5Q2|M5N5Q2_STREE Cysteine desulphurase, Aminotransferase, class V
+
+Loc: 1808200 ## F3VKD8|F3VKD8_STREE Xanthine phosphoribosyltransferase
+------------------------------------------------------------------------------
+      783000 ## M5MSJ9|M5MSJ9_STREE Histone acetyltransferase Gcn5
+
+Loc: 1816800 ## B2ISV3|B2ISV3_STRPS Galactose operon repressor
+------------------------------------------------------------------------------
+      346200 ## Q8DR50|Q8DR50_STRR6 Diphosphomevalonate decarboxylase
+
+Loc: 1817000 ## B2ISV3|B2ISV3_STRPS Galactose operon repressor
+------------------------------------------------------------------------------
+     1973000 ## D6ZMR0|D6ZMR0_STRP0 Transcription termination/antitermination protein NusG
+
+Loc: 1817800 ## G6LPY1|G6LPY1_STREE Zinc-binding dehydrogenase family protein
+------------------------------------------------------------------------------
+     1549700 ## B2IRA5|B2IRA5_STRPS Cobyric acid synthase
+
+Loc: 1823300 ## B2ISV9|B2ISV9_STRPS Choline transporter
+------------------------------------------------------------------------------
+      468900 ## A5M6E7|A5M6E7_STREE A0A0B7KLG4|A0A0B7KLG4_STREE Competence factor transporting ATP-binding protein/permease ComA/ABC transporter/Bacteriocin transport/processing ATP-binding protein BlpA
+
+Loc: 1829000 ## B2ISW7|B2ISW7_STRPS Iron-compound ABC transporter, permease protein
+------------------------------------------------------------------------------
+     2214600 ## E0SZG5|E0SZG5_STRZA Integral membrane protein/Phage infection protein
+
+Loc: 1831800 ## B8ZNA9|B8ZNA9_STRPJ Siderophore uptake ATP-binding protein
+------------------------------------------------------------------------------
+      826900 ## J1CX70|J1CX70_STREE Carboxynorspermidine decarboxylase
+
+Loc: 1842400 ## B8ZNI8|B8ZNI8_STRPJ Sugar phosphotransferase system (PTS), IIABC component
+------------------------------------------------------------------------------
+      552800 ## D6ZRA6|D6ZRA6_STRP0 M42 glutamyl aminopeptidase
+     1889100 ## G6LQ60|G6LQ60_STREE Putative uncharacterized protein
+
+Loc: 1863900 ## G6LWM6|G6LWM6_STREE Biotin-[acetyl-CoA-carboxylase] ligase
+------------------------------------------------------------------------------
+     2094900 ## B8ZPP9|B8ZPP9_STRPJ Putative DNA-binding protein
+
+Loc: 1879300 ## E0TNP4|E0TNP4_STRZ6 60 kDa chaperonin
+------------------------------------------------------------------------------
+      815800 ## C1CJZ5|C1CJZ5_STRZP Protein SprT-like
+      828600 ## G6S4Z0|G6S4Z0_STREE Agmatine deiminase
+
+Loc: 1880800 ## B8ZNL2|B8ZNL2_STRPJ Putative NADP-dependent L-serine/L-allo-threonine dehydrogenase
+------------------------------------------------------------------------------
+      507200 ## A5M6K3|A5M6K3_STREE Phenylalanine--tRNA ligase beta subunit
+
+Loc: 1883400 ## B8ZNL7|B8ZNL7_STRPJ Putative membrane protein
+------------------------------------------------------------------------------
+      842600 ## B8ZP40|B8ZP40_STRPJ Tetrapyrrole methylase/Ribosomal RNA small subunit methyltransferase I
+
+Loc: 1889100 ## G6LQ60|G6LQ60_STREE Putative uncharacterized protein
+------------------------------------------------------------------------------
+     1842400 ## B8ZNI8|B8ZNI8_STRPJ Sugar phosphotransferase system (PTS), IIABC component
+
+Loc: 1891600 ## B2IM14|B2IM14_STRPS Uncharacterized protein
+------------------------------------------------------------------------------
+      123500 ## tr|A0A0B7LY79|A0A0B7LY79_STREE Membrane associated protein
+     1601600 ## A5M5P6|A5M5P6_STREE Isoleucyl-tRNA synthetase
+     1601900 ## E0TSC3|E0TSC3_STRZ6 Cell-division initiation protein
+     1602200 ## B2IRR6|B2IRR6_STRPS Cell division protein DivIVA
+
+Loc: 1892100 ## B2IM15|B2IM15_STRPS Uncharacterized protein
+------------------------------------------------------------------------------
+     1601900 ## E0TSC3|E0TSC3_STRZ6 Cell-division initiation protein
+
+Loc: 1907600 ## Q04IM0|Q04IM0_STRP2 Transcriptional regulator PlcR, putative
+------------------------------------------------------------------------------
+     1071000 ## E0TMU8|E0TMU8_STRZ6 Galactose-6-phosphate isomerase subunit LacB
+
+Loc: 1930500 ## E0SXU3|E0SXU3_STRZA DNA-entry nuclease
+------------------------------------------------------------------------------
+     1945200 ## J1PMA7|J1PMA7_STREE Putative ribosome biogenesis GTPase RsgA
+
+Loc: 1936900 ## B2IM52|B2IM52_STRPS SpoU rRNA Methylase family protein
+------------------------------------------------------------------------------
+      719300 ## H7PRI0|H7PRI0_STREE DNA gyrase B family protein
+
+Loc: 1937900 ## D6ZPC6|D6ZPC6_STRP0 Membrane protein insertase YidC
+------------------------------------------------------------------------------
+      958600 ## B8ZPS0|B8ZPS0_STRPJ ABC transporter ATP-binding protein
+
+Loc: 1944300 ## Q97NN8|Q97NN8_STRPN Thiamine pyrophosphokinase
+------------------------------------------------------------------------------
+      745100 ## B2INW2|B2INW2_STRPS Lipoprotein
+
+Loc: 1945200 ## J1PMA7|J1PMA7_STREE Putative ribosome biogenesis GTPase RsgA
+------------------------------------------------------------------------------
+     1930500 ## E0SXU3|E0SXU3_STRZA DNA-entry nuclease
+     1964200 ## B8ZP08|B8ZP08_STRPJ ABC transporter ATP-binding protein
+
+Loc: 1946400 ## R0NDY6|R0NDY6_STREE Ribosomal RNA small subunit methyltransferase A
+------------------------------------------------------------------------------
+      815100 ## J1EE77|J1EE77_STREE S1 RNA binding domain protein/Transcriptional regulator/Toxin expression/Protein tex domain protein
+     1293200 ## Q97Q71|Q97Q71_STRPN ABC transporter, ATP-binding/permease protein
+
+Loc: 1958400 ## B2IMH1|B2IMH1_STRPS Cof family protein
+------------------------------------------------------------------------------
+     1777400 ## G6LWC2|G6LWC2_STREE Tryptophan synthase alpha chain
+
+Loc: 1963700 ## B2IMH6|B2IMH6_STRPS Uncharacterized protein
+------------------------------------------------------------------------------
+     1117800 ## B8ZJR7|B8ZJR7_STRPJ Chromosome partition protein Smc
+
+Loc: 1964200 ## B8ZP08|B8ZP08_STRPJ ABC transporter ATP-binding protein
+------------------------------------------------------------------------------
+     1945200 ## J1PMA7|J1PMA7_STREE Putative ribosome biogenesis GTPase RsgA
+
+Loc: 1973000 ## D6ZMR0|D6ZMR0_STRP0 Transcription termination/antitermination protein NusG
+------------------------------------------------------------------------------
+     1817000 ## B2ISV3|B2ISV3_STRPS Galactose operon repressor
+
+Loc: 2007000 ## B2IML9|B2IML9_STRPS Adenine-specific DNA methylase
+------------------------------------------------------------------------------
+     1326700 ## Q97Q43|Q97Q43_STRPN Spermidine/putrescine ABC transporter, permease protein
+
+Loc: 2013900 ## B2IMN1|B2IMN1_STRPS N-acetylglucosamine-6-phosphate deacetylase
+------------------------------------------------------------------------------
+     2025000 ## E0TQP0|E0TQP0_STRZ6 Threonine synthase
+
+Loc: 2025000 ## E0TQP0|E0TQP0_STRZ6 Threonine synthase
+------------------------------------------------------------------------------
+     1415800 ## E0TM20|E0TM20_STRZ6 Degenerate transposase
+     1416800 ## J1E8E2|J1E8E2_STREE Phosphoglucomutase
+     1479100 ## B8ZLL7|B8ZLL7_STRPJ ATPase component of ABC transporter/ATP-binding protein
+     2013900 ## B2IMN1|B2IMN1_STRPS N-acetylglucosamine-6-phosphate deacetylase
+
+Loc: 2033600 ## 30 UPSTREAM C1CGZ8|C1CGZ8_STRZJ Cytidine/deoxycytidylate deaminase family protein
+------------------------------------------------------------------------------
+      815100 ## J1EE77|J1EE77_STREE S1 RNA binding domain protein/Transcriptional regulator/Toxin expression/Protein tex domain protein
+
+Loc: 2035100 ## J1DAC3|J1DAC3_STREE Glutamyl-tRNA synthetase
+------------------------------------------------------------------------------
+      958600 ## B8ZPS0|B8ZPS0_STRPJ ABC transporter ATP-binding protein
+
+Loc: 2050200 ## Q9X4S9|Q9X4S9_STREE Histidine kinase
+------------------------------------------------------------------------------
+     1561900 ## B8ZM22|B8ZM22_STRPJ FAD dependent oxidoreductase
+
+Loc: 2057500 ## D6ZNC6|D6ZNC6_STRP0 UTP--glucose-1-phosphate uridylyltransferase
+------------------------------------------------------------------------------
+       46000 ## A0A0B7LMC4|A0A0B7LMC4_STREE Phosphate acyltransferase
+
+Loc: 2069800 ## B2IN21|B2IN21_STRPS rRNA (Guanine-N1-)-methyltransferase
+------------------------------------------------------------------------------
+     1120000 ## J0UK66|J0UK66_STREE Ribonuclease 3
+
+Loc: 2094900 ## B8ZPP9|B8ZPP9_STRPJ Putative DNA-binding protein
+------------------------------------------------------------------------------
+     1863900 ## G6LWM6|G6LWM6_STREE Biotin-[acetyl-CoA-carboxylase] ligase
+
+Loc: 2118900 ## B1I9V7|B1I9V7_STRPI Twin-arginine translocation pathway signal
+------------------------------------------------------------------------------
+     1418600 ## B8ZLA2|B8ZLA2_STRPJ Putative amino acid ABC transporter,extracellular amino acid-binding protein
+     1668600 ## B8ZMI8|B8ZMI8_STRPJ Putative sucrose operon repressor
+
+Loc: 2120500 ## B8ZPY5|B8ZPY5_STRPJ Putative alpha-1,2-mannosidase, Antigen, cell wall surface anchor family
+------------------------------------------------------------------------------
+      243800 ## E0TQZ6|E0TQZ6_STRZ6 30S ribosomal protein S7
+
+Loc: 2122000 ## B8ZPY6|B8ZPY6_STRPJ Putative fucosidase
+------------------------------------------------------------------------------
+      912000 ## B8ZPG8|B8ZPG8_STRPJ tRNA modification GTPase MnmE
+
+Loc: 2163200 ## B8ZQ21|B8ZQ21_STRPJ Alpha-glycerophosphate oxidase
+------------------------------------------------------------------------------
+       55000 ## J1P4Q0|J1P4Q0_STREE Phosphoribosylformylglycinamidine synthase
+
+Loc: 2184900 ## B2INM1|B2INM1_STRPS Replicative DNA helicase
+------------------------------------------------------------------------------
+      129700 ## E0TQ54|E0TQ54_STRZ6 tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+
+Loc: 2203900 ## B8ZQB6|B8ZQB6_STRPJ Zinc-dependent protease, Peptidase, M16 family
+------------------------------------------------------------------------------
+     1461000 ## J1UYF1|J1UYF1_STREE Peptidase propeptide and ypeb domain protein
+
+Loc: 2210700 ## F3VLH8|F3VLH8_STREE ABC transporter family protein,  ATPase component of ABC transporters with duplicated ATPase domains
+------------------------------------------------------------------------------
+      910900 ## S2VHQ7|S2VHQ7_STREE 4-hydroxy-tetrahydrodipicolinate synthase
+
+Loc: 2213800 ## M5K644|M5K644_STREE YhgE/Pip domain protein
+------------------------------------------------------------------------------
+       69100 ## A0A0B4ZG42|A0A0B4ZG42_STREE Beta-N-acetylhexosaminidase
+
+Loc: 2214600 ## E0SZG5|E0SZG5_STRZA Integral membrane protein/Phage infection protein
+------------------------------------------------------------------------------
+     1829000 ## B2ISW7|B2ISW7_STRPS Iron-compound ABC transporter, permease protein
+
+Loc: 2218000 ## M5KB29|M5KB29_STREE Histidine protein kinase/ComD protein
+------------------------------------------------------------------------------
+     1574900 ## B2IRN9|B2IRN9_STRPS DNA-binding response regulator
+
+Loc: 2219900 ## B8ZQD0|B8ZQD0_STRPJ Trypsin domain protein/Serine protease
+------------------------------------------------------------------------------
+      841600 ## B2IP92|B2IP92_STRPS ATPase/Initiation-control protein YabA
+

@@ -1,0 +1,19 @@
+Prerequisite:
+    * sampled alignments generated in previous step (directory sampled/)
+    * MATLAB
+    * modified plmDCA (included in ./maelaplmdca)
+
+Procedure:
+    1. (before first use) Edit 00runplmdca.py
+        * Set the path to your MATLAB executable
+        * Set the desired number of cores to use, or use -1 for the program to use
+            all available cores
+        * Set the absolute path to the ./maelaplmdca directory
+
+    2. For each of the alignments, run ./00runplmdca.py. Preferably on a 
+        computational cluster.
+
+        Example:
+        $> for t in sampled/sampling*/maela.seq; do ./00runplmdca.py $t; done
+        
+    3. Wait until inference finishes -- may take a considerable amount of time.

@@ -1,0 +1,11 @@
+Prerequisite:
+    a dictionary obtained in previous steps (processed.dat)
+
+Procedure:
+    1. (optional) Edit 00sample.py to change:
+        * The number of samples to produce (change 5000 to desired number)
+        * Step size (currently 1,500 bp). The greater the step size, potentially 
+            more unbiased the inference, at expense of missing some medium-range
+            interactions and necessity of running more iterations (samples).
+    2. Make sure directory ./sampled exists (or create it)
+    3. Run 00sample.py (for internal operation details, see source code)

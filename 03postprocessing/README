@@ -1,0 +1,41 @@
+Prerequisite:
+    * sampled alignments generated in previous step (directory sampled/)
+    * files with couplings inferred in previous step (each directory should
+        contain files: maela.seq, maela.mapping and maela.plmdca)
+
+Procedure:
+    1. (optional) In ./00process.py uncomment one of the bottom lines,
+        to enable compression (recommended) or deletion (not recommended)
+        of output files.
+
+    2. For each of directories with inferred couplings, run ./00process.py
+
+        Example:
+        $> for t in sampled/sampling*; do ./00process.py $t; done
+
+        You can do it while the inferrence on some of the samples is ongoing,
+        in the interest of saving disk space
+
+    3. Whenever you want to see the summary statistics, run ./01summary.py in
+        the ./sampled/ directory.
+        (Can be run with incomplete data). 
+        Produces ./summarytable.txt file, with following syntax:
+
+        1059441 1086321  0.04345  0.00263  0.04082  0.04608 2 5
+        |       |        |        |        |        |       | |
+        |       |        |        |        |        |       | \- number of possible combinations
+        |       |        |        |        |        |       |    (i.e. how many times these sites
+        |       |        |        |        |        |       |     were in the same input alignment)
+        |       |        |        |        |        |       |   
+        |       |        |        |        |        |       \- number of times this site pair was among
+        |       |        |        |        |        |          top 3000 couplings in the sampled alignments
+        |       |        |        |        |        |          
+        |       |        |        |        |        \- maximum value of coupling inferred
+        |       |        |        |        \- minimum value of coupling inferred and kept (!)
+        |       |        |        \- standard deviation of coupling value
+        |       |        \- mean coupling value
+        |       \- locus/site 2
+        \- locus/site 1
+
+        Site pairs which consistently score high (high mean, low standard deviation, number of times 
+        sampled equal or almost equal to number of combinations) are likely to be true couplings
