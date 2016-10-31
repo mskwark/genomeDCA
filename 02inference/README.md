@@ -13,7 +13,10 @@ This step will infer evolutionary couplings between loci in pseudo-alignments ge
     * Set the desired number of cores to use, or use -1 for the program to use all available cores
     * Set the absolute path to the ./genomeDCA directory
 2. For each of the alignments, run ./00rungenomeDCA.py. Preferably on a computational cluster.
+
     Example:
+
     `$> for t in sampled/sampling*/input.seq; do ./00rungenomeDCA.py $t; done`
+
     Note: `./00rungenomeDCA` can take more than one alignment input in the command line. In such a case, the inference will be run sequentially.
 3. Wait until inference finishes -- may take a considerable amount of time.
