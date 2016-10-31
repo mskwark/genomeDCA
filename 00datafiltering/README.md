@@ -7,6 +7,7 @@ of the alignment method used. For a sample input file, see `example/maela.head`.
 The process of preparing the input data (pickled Python dictionary) is fully autonomous. Run it by `./00process.py maela3K.fas maela3K.data`.
 
 The script will:
+
 1. Read in the sequences of your aligned genomes
 2. Compute allelle frequencies
 3. Filter out these positions that do not meet criteria (see below)
