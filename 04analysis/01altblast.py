@@ -1,7 +1,14 @@
-#!/usr/bin/python
+#!/usr/bin/env python2.7
 
-import os
+import os,sys
 import subprocess
+
+blastall = 'n/a'
+try:
+    if not os.path.exists(blastall):
+        blastall = subprocess.check_output(['which', 'blastall'])
+except:
+    sys.stderr.write('BLAST executable not found')
 
 sequence = open('genome.fa').readlines()[1]
 
@@ -13,4 +20,4 @@ for c in range(0, len(sequence), 300):
     f.close()
     if not os.path.exists('mapping/sequence{:07d}.fa.blast'.format(c)):
         print 'Doing blast for', c
-        subprocess.call('/home/mjs/sw/blast-2.2.26/bin/blastall -p blastx -i mapping/sequence{:07d}.fa -d pneumococcus-reference.fasta > mapping/sequence{:07d}.fa.blast'.format(c,c), shell=True)
+        subprocess.call('{:s} -p blastx -i mapping/sequence{:07d}.fa -d pneumococcus-reference.fasta > mapping/sequence{:07d}.fa.blast'.format(blastall, c,c), shell=True)
