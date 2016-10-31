@@ -22,9 +22,11 @@ This step maps the couplings inferred previously back onto their genomic locatio
 3. Whenever you want to see the summary statistics, run ./01summary.py in
     the ./sampled/ directory.
     (Can be run with incomplete data). 
+    
     Produces ./summarytable.txt file, with following syntax:
 
-    `1059441 1086321  0.04345  0.00263  0.04082  0.04608 2 5
+    <pre>
+    1059441 1086321  0.04345  0.00263  0.04082  0.04608 2 5
     |       |        |        |        |        |       | |
     |       |        |        |        |        |       | \- number of possible combinations
     |       |        |        |        |        |       |    (i.e. how many times these sites
@@ -38,7 +40,7 @@ This step maps the couplings inferred previously back onto their genomic locatio
     |       |        |        \- standard deviation of coupling value
     |       |        \- mean coupling value
     |       \- locus/site 2
-    \- locus/site 1`
+    \- locus/site 1</pre>
 
     Site pairs which consistently score high (high mean, low standard deviation, number of times 
     sampled equal or almost equal to number of combinations) are likely to be true couplings
