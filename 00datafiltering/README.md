@@ -3,22 +3,24 @@
 To prepare the data for subsequent analysis by genomeDCA, you need a file with
 aligned genomes of organism in question. This method (genomeDCA) is independent
 of the alignment method used. For a sample input file, see `example/maela.head`.
-    
-1. Obtain a multiple sequence alignment of genomes.
-2. Prepare an input file, containing the summary statistics, counting the number of occurences of individual allelles at given positions (00summarystatistics.py)
 
-        `Example:
-          12004 3110   10    0    0    0   36 0.0000
-          |     |       |    |    |    |   |  |
-          |     |       |    |    |    |   |  \- Minor allele frequency
-          |     |       |    |    |    |   |     (column 2)/(column2+column3)
-          |     |       |    |    |    |   \- gap count
-          |     |       |    |    |    \- Sanity check - count of letters other than [ACGTN] 
-          |     |       |    |    |                      (should be zero)
-          |     |       |    |    \- Count of least common allele
-          |     |       |    \- Count of third most common allele 
-          |     |       \- Count of second most common allele (minor allele), should be non zero
-          |     \- Count of most common allele
-          \- Position index`
-3. Filter the resultant file, to exclude positions that are non bi-allelic, have too low MAF (minor alllele frequency) or too many gaps (01filterstats.py)
-4. Encode the results into a pickled Python dictionary for fast access (02encode.py)
+The process of preparing the input data (pickled Python dictionary) is fully autonomous. Run it by `./00process.py maela3K.fas maela3K.data`.
+
+The script will:
+1. Read in the sequences of your aligned genomes
+2. Compute allelle frequencies
+3. Filter out these positions that do not meet criteria (see below)
+4. Store the data in easily accessible format for further processing.
+
+## Adjustable parameters
+
+The required minor allelle frequency and maximum fraction of gaps can be
+adjusted in the header of the script, as `minimalMAF` and `gapFraction`
+respectively. The results in the paper have been obtained with these parameters
+set to default values.
+
+Lower `minimalMAF` allows to include more sites in the analysis, which comes at
+a cost of increased time and memory requirements. 
+
+Higher `gapFraction` allows to include more sites in the analysis, at the cost of 
+gap-rich sites skewing the analysis.
