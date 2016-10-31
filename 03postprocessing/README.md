@@ -19,11 +19,13 @@ This step maps the couplings inferred previously back onto their genomic locatio
     You can do it while the inferrence on some of the samples is ongoing,
     in the interest of saving disk space
 
-3. Whenever you want to see the summary statistics, run ./01summary.py in
-    the ./sampled/ directory.
-    (Can be run with incomplete data). 
+    You can also provide more than one directory name in the command line, then these driectories will be analysed sequentially.
+
+3. To compute summary statistics, run `./01summary.py outfile.txt sampled/sampling*/`, that is first argument being the output file and remaining directories containing processed data.
     
-    Produces ./summarytable.txt file, with following syntax:
+    This can be run with incomplete data. 
+    
+    Produces a text file, with following syntax:
 
     <pre>
     1059441 1086321  0.04345  0.00263  0.04082  0.04608 2 5
