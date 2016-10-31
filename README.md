@@ -15,6 +15,7 @@ In order to successfully conduct this analysis, one needs:
 ## Usage
 
 The computational procedure comprises the following steps:
+
 1. Analysis of the allelle distribution in the input genomes, filtering and encoding information for subsequent steps (`00datafiltering`)
 2. Generation of pseudo-alignments for coupling inference (`01sampling`)
 3. Coupling inference (`02inference`). *Warning:* this step is computationally intensive, but is amenable to parallel processing. 
