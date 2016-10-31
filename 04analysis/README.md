@@ -1,6 +1,6 @@
-= Identifying proteins corresponding to loci
+# Identifying proteins corresponding to loci
 
-Remark: This part of pipeline has not been fully automated
+*Remark:* This part of pipeline has not been fully automated
 
 1. a) For each of the sites in top couplings identified in the previous steps, 
     extract a fragment of S. pneumoniae genome of length 1001, including
@@ -24,6 +24,4 @@ Alternatively:
 3. Map each high scoring site to a corresponding protein-coding gene
 
 For example how it can be done, see `./01altblast.py`
-
-
 
