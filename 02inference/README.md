@@ -19,4 +19,4 @@ This step will infer evolutionary couplings between loci in pseudo-alignments ge
     `$> for t in sampled/sampling*/input.seq; do ./00rungenomeDCA.py $t; done`
 
     Note: `./00rungenomeDCA` can take more than one alignment input in the command line. In such a case, the inference will be run sequentially.
-3. Wait until inference finishes -- may take a considerable amount of time.
+3. Wait until inference finishes. Single run takes ~10 minutes, out of which ~75% is spent in parallelized loop. When using 20 cores the run time can be reduced to ~3 minutes. Each sample can be run independently.
