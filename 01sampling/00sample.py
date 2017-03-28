@@ -25,7 +25,10 @@ def generateSamples(datafile, stepSize=1500, samples=5000):
             start += stepSize
             if len(chunk) > 0:
                 chunks.append(chunk)
+                chunk = []
         chunk.append(i)
+    if len(chunk) > 0:
+      chunks.append(chunk)
         
     for xxv in range(samples):
         accepted2 = []

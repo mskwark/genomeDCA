@@ -31,6 +31,13 @@ def parsefile(infile):
             seq = ''
         else:
             seq += l.strip()
+    for i in range(len(seq)):
+        if length < 0:
+            frequencies[i] = {} 
+        try:
+            frequencies[i][seq[i]] += 1
+        except:
+            frequencies[i][seq[i]] = 1
 
     lookup = {}
     for i in range(length):
@@ -52,6 +59,8 @@ def parsefile(infile):
             except:
                 pass
         q.append(gaps)
+        if len(q) < 3:
+          continue
         sequences = sum(q)
         maf = float(q[1])/float(q[1] + q[0])
         if maf < minimalMAF:
@@ -77,7 +86,7 @@ def parsefile(infile):
         if l.find('>') == 0:
             sys.stderr.write(l)
             if len(seq) < 1:
-                key = l
+                key = l.strip()
                 continue
             if len(seq) != length and length > 0:
                 sys.stderr.write('Length mismatch {:d} =/= {:d}\n'.format(len(seq), length))
@@ -87,14 +96,20 @@ def parsefile(infile):
                 try:
                     data[key][i] = lookup[i][seq[i]]
                 except:
-                    print lookup[i], seq[i] 
                     sys.stderr.write('ERROR: For sequence {:s} processing failed at position {:d}\n'.format(key, i))
                     sys.exit(4)
             length = len(seq)
             seq = ''
-            key = l
+            key = l.strip()
         else:
             seq += l.strip()
+    data[key] = {}
+    for i in lookup.keys():
+        try:
+            data[key][i] = lookup[i][seq[i]]
+        except:
+            sys.stderr.write('ERROR: For sequence {:s} processing failed at position {:d}\n'.format(key, i))
+            sys.exit(4)
     return data
  
 
