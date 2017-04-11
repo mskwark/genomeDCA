@@ -3,7 +3,7 @@
 import os, sys, random
 from numpy import mean, std
 
-def makesummary(directories, outfile):
+def makesummaries(directories, outfile):
     scores = {}
     seen = {} 
     means = []
