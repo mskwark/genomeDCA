@@ -9,7 +9,7 @@ def makesummaries(directories, outfile):
     means = []
     count = 0
     files = 0
-    for l1 in os.listdir('.'):
+    for l1 in directories:
         if not os.path.exists(l1 + '/genomedca.data'):
             continue
         count += 1
