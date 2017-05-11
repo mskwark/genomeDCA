@@ -4,10 +4,10 @@ import sys, subprocess, os
 import string as s
 
 # Change 4 to the desired number of cores genomeDCA is to use.
-cores = 4
+cores = 1
 
 ### Change this to reflect the path to your MATLAB executable
-matlab = '/change/this/path'
+matlab = 'octave'
 ####
 
 ### Change this to reflect the path to the genomeDCA code
@@ -41,10 +41,10 @@ try:
         infilestem = infilestem[:infilestem.rfind('.')]
 
         if not os.path.exists(infilestem + ".genomedca"):
-            print "Running genomeDCA on {:s}'".format(infile)
-            print ' '.join([matlab, '-nodesktop', '-r', "path(path, 'PLMDCAPATH'); path(path, 'PLMDCAPATH/functions'); path(path, 'PLMDCAPATH/3rd_party_code/minFunc/'); plmDCA_asymmetric ( '".replace('PLMDCAPATH', plmdca) + infilestem + ".seq', '" + infilestem + ".genomedca', 0.1, {:d}); exit".format(cores)])
+            print("Running genomeDCA on {:s}'".format(infile))
+            print(' '.join([matlab, '--no-gui', '--eval', "pkg load bioinfo; path(path, 'PLMDCAPATH'); path(path, 'PLMDCAPATH/functions'); path(path, 'PLMDCAPATH/3rd_party_code/minFunc/'); plmDCA_asymmetric ( '".replace('PLMDCAPATH', plmdca) + infilestem + ".seq', '" + infilestem + ".genomedca', 0.1, {:d}); exit".format(cores)]))
 
-            t = subprocess.check_output([matlab, '-nodesktop', '-r', "path(path, 'PLMDCAPATH'); path(path, 'PLMDCAPATH/functions'); path(path, 'PLMDCAPATH/3rd_party_code/minFunc/'); plmDCA_asymmetric ( '".replace('PLMDCAPATH', plmdca) + infilestem + ".seq', '" + infilestem + ".genomedca', 0.1, {:d}); exit".format(cores)])
+            t = subprocess.check_output([matlab, '--no-gui', '--eval', "pkg load bioinfo; path(path, 'PLMDCAPATH'); path(path, 'PLMDCAPATH/functions'); path(path, 'PLMDCAPATH/3rd_party_code/minFunc/'); plmDCA_asymmetric ( '".replace('PLMDCAPATH', plmdca) + infilestem + ".seq', '" + infilestem + ".genomedca', 0.1, {:d}); exit".format(cores)])
 except Exception as e:
     print(e)
     sys.stderr.write('{:s} inputfile1.seq [inputfile2.seq ...]\n'.format(sys.argv[0])) 
