@@ -11,10 +11,10 @@ samples = 5000
 
 def generateSamples(datafile, stepSize=1500, samples=5000):
     accepted = []
-    print 'Read data for sampling'
+    print('Read data for sampling')
     data = joblib.load(datafile)
 
-    accepted = sorted(data[data.keys()[0]].keys())
+    accepted = sorted(data[list(data.keys())[0]].keys())
     chunks = []
     start = 0
     chunk = []
@@ -45,7 +45,7 @@ def generateSamples(datafile, stepSize=1500, samples=5000):
         os.makedirs('sampled/sampling{0:04d}'.format(i))
 
         f = open('sampled/sampling{0:04d}/input.seq'.format(i), 'w')
-        print i, len(accepted2)
+        print(i, len(accepted2))
         for sequence in data.keys():
             S = data[sequence]
             f.write('>{:s}\n'.format(sequence))

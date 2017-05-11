@@ -46,6 +46,6 @@ try:
 
             t = subprocess.check_output([matlab, '-nodesktop', '-r', "path(path, 'PLMDCAPATH'); path(path, 'PLMDCAPATH/functions'); path(path, 'PLMDCAPATH/3rd_party_code/minFunc/'); plmDCA_asymmetric ( '".replace('PLMDCAPATH', plmdca) + infilestem + ".seq', '" + infilestem + ".genomedca', 0.1, {:d}); exit".format(cores)])
 except Exception as e:
-    print e
+    print(e)
     sys.stderr.write('{:s} inputfile1.seq [inputfile2.seq ...]\n'.format(sys.argv[0])) 
     sys.stderr.write('\nThis script will run genomeDCA on all the input files provided in the command line\nREMEMBER: set the path to MATLAB executable and genomeDCA code in the header of the script\n')
